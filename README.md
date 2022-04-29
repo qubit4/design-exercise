@@ -1,3 +1,3 @@
-Exercise in Bootstrap5, based on tutorial by Net Ninja.
+exercise in Bootstrap5, based on tutorial by Net Ninja
 
-See here: https://ouecde.csb.app/
+see here: https://ouecde.csb.app/
